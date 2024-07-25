@@ -13,7 +13,10 @@ Welcome to the Amazon.com Clone Project! 🎉 This project is a clone of the ico
 ## 🖼️ Screenshots
 
 ![Homepage](https://github.com/user-attachments/assets/581afaaf-2af8-4234-af95-23ecd17c9622)
-![Product Listings](https://github.com/yourusername/yourrepository/raw/main/path/to/product-listings.png)
+
+![Product Listings](https://github.com/user-attachments/assets/08013848-d6ce-405b-83e9-4e312c54647b)
+
+
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these steps:
